@@ -1,6 +1,6 @@
 ## Getting Started
 
 ```bash
-docker pull johnsonlee/java15:latest
+docker pull johnsonlee/java17:latest
 ```
 

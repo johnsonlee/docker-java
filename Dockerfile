@@ -1,4 +1,4 @@
-FROM openjdk:15.0.2
+FROM openjdk:17
 
 MAINTAINER Johnson g.johnsonlee@gmail.com
 

@@ -1,8 +1,8 @@
-version: "3.0"
+version: "3.8"
 
 services:
   java15:
     build:
       context: .
       dockerfile: Dockerfile
-    image: johnsonlee/java15:latest
+    image: johnsonlee/java17:latest
